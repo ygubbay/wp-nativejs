@@ -1,0 +1,21 @@
+
+
+
+:local(.box) {
+    background-color: white;
+    padding: 1em;
+    border: 1pm solid deepink;
+}
+
+
+.redbox {
+    background: white;
+    padding: 1em;
+    border: 1pm solid deepink;
+}
+
+.control {
+    width: 150px;
+    padding: 3px;
+    border-radius: 3px;
+}
